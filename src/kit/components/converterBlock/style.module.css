@@ -1,0 +1,41 @@
+.title {
+    padding: 50px 0 50px;
+    text-align: center;
+    font-size: 25px;
+}
+
+.converter-block {
+    margin: 0 auto;
+    width: 500px;
+    border-top: 8px solid rgb(30, 45, 252);
+    background-color: white;
+    padding: 40px;
+}
+
+.exchange-title {
+    text-align: center;
+    padding: 10px 0 20px;
+    font-size: 18px;
+    color: gray;
+}
+
+.result {
+    text-align: center;
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+
+.btn {
+    justify-content: center;
+    text-align: center;
+    margin-top: 20px;
+    width: 100%;
+    border: none;
+    border-radius: 5px;
+    padding: 15px;
+    color: white;
+    background-color: rgb(112, 184, 236);
+}
+
+
+

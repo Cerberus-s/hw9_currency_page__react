@@ -1,8 +1,11 @@
 import './App.css';
+import ConverterBlock from './kit/components/converterBlock';
 
 function App() {
   return (
-    <div></div>
+    <div>
+      <ConverterBlock />
+    </div>
   );
 }
 
